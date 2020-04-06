@@ -10,12 +10,12 @@ MEENet is a library for the visualization and analysis of single cell RNA seq da
 
 MEENet includes a :ref:`command line tool <cli>` and an :ref:`analysis pipeline <analysis>`
 
-Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
+   
+    Installation
+    Tutorial
 
 Indices and tables
 ==================
