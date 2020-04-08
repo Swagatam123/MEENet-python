@@ -31,3 +31,22 @@ Following are the python library dependenccies that needs to be installed as a p
    annoy
    seaborn
    umap 
+
+Run the below conda command to install all the dependeices mentioned above. You can also use pip install the python libraries.
+
+::
+
+	conda install Node2vec Networkx Matplotlib pandas sklearn scanpy annoy seaborn umap
+
+
+Environment Setup
+----------------
+
+Once all the dependencies are installed and `git` is installed and configured on your system, run the below command to get the 	python files.
+
+::
+	
+	git clone https://github.com/Swagatam123/MEENet-python
+
+Download the OpenOrd jar file from this location and make sure it is in the same location where your cloned project is present. Your environment 
+setup is ready to run the python file. Please follow the `Turoial<https://swagatam123.github.io/MEENet-python/Tutorial.html>` page to run the code
