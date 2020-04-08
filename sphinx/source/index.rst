@@ -19,7 +19,7 @@ Contents
    Installation
 
 .. toctree::
-    
+
    Tutorial
 
 Indices and tables
