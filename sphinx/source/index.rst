@@ -13,11 +13,14 @@ MEENet includes a :ref:`command line tool <cli>` and an :ref:`analysis pipeline 
 
 Contents
 ========
+
 .. toctree::
-   :maxdepth: 2
    
-    Installation
-    Tutorial
+   Installation
+
+.. toctree::
+
+   Tutorial
 
 Indices and tables
 ==================
